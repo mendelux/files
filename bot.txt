@@ -1,0 +1,2 @@
+<lista_bot>https:///kodivertidoteam.es/lista_bot.txt
+<botListaUnica>https:///kodivertidoteam.es/botListaUnica.txt
