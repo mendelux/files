@@ -1,2 +1,2 @@
-<lista_bot>https:///kodivertidoteam.es/lista_bot.txt
-<botListaUnica>https:///kodivertidoteam.es/botListaUnica.txt
+<lista_bot>aHR0cHM6Ly8va29kaXZlcnRpZG90ZWFtLmVzL2xpc3RhX2JvdC50eHQ=<
+<botListaUnica>aHR0cHM6Ly8va29kaXZlcnRpZG90ZWFtLmVzL2JvdExpc3RhVW5pY2EudHh0<
